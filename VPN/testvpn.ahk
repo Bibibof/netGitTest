@@ -1,0 +1,1 @@
+;run %comspec% /c "testvpn.bat",,Hide
