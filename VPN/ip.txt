@@ -1,4 +1,4 @@
-1
+
 Windows IP Configuration
 
 
@@ -6,8 +6,8 @@ Ethernet adapter Local Area Connection 7:
 
    Connection-specific DNS Suffix  . : guidewire.com
    Link-local IPv6 Address . . . . . : fe80::183b:419d:2b00:c86e%25
-   Link-local IPv6 Address . . . . . : fe80::7815:20ca:3a16:2f32%25
-   IPv4 Address. . . . . . . . . . . : 10.144.26.37
+   Link-local IPv6 Address . . . . . : fe80::5bcc:3c3d:a022:4ead%25
+   IPv4 Address. . . . . . . . . . . : 10.144.26.43
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
    Default Gateway . . . . . . . . . : ::
                                        10.144.26.1
@@ -32,7 +32,7 @@ Ethernet adapter Local Area Connection 2:
 Wireless LAN adapter Wireless Network Connection:
 
    Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : WORKGROUP
+   Connection-specific DNS Suffix  . : 
 
 Ethernet adapter VMware Network Adapter VMnet1:
 
