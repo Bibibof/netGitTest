@@ -16,8 +16,8 @@ goto :eof
 :saveip
 d:
 cd d:\GitHub\netGitTest
-C:\Users\rorain\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd\git add -A
-C:\Users\rorain\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd\git commit -m "ip"
-C:\Users\rorain\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd\git push
+C:\Users\RORAIN\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd\git add -A
+C:\Users\RORAIN\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd\git commit -m "ip"
+C:\Users\RORAIN\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd\git push
 :eof
 exit
