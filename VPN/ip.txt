@@ -32,7 +32,7 @@ Ethernet adapter Local Area Connection 2:
 Wireless LAN adapter Wireless Network Connection:
 
    Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
+   Connection-specific DNS Suffix  . : WORKGROUP
 
 Ethernet adapter VMware Network Adapter VMnet1:
 
