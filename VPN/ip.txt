@@ -6,8 +6,8 @@ Ethernet adapter Local Area Connection 7:
 
    Connection-specific DNS Suffix  . : guidewire.com
    Link-local IPv6 Address . . . . . : fe80::183b:419d:2b00:c86e%25
-   Link-local IPv6 Address . . . . . : fe80::8119:63a6:5cc8:54ed%25
-   IPv4 Address. . . . . . . . . . . : 10.144.26.41
+   Link-local IPv6 Address . . . . . : fe80::2ddd:cb9e:3f48:b596%25
+   IPv4 Address. . . . . . . . . . . : 10.144.26.42
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
    Default Gateway . . . . . . . . . : ::
                                        10.144.26.1
@@ -21,7 +21,7 @@ Ethernet adapter Local Area Connection 4:
 
 Ethernet adapter VMware Network Adapter VMnet1:
 
-   Connection-specific DNS Suffix  . : 
+   Connection-specific DNS Suffix  . : localdomain
    Link-local IPv6 Address . . . . . : fe80::a51b:bef3:bba3:490%20
    IPv4 Address. . . . . . . . . . . : 192.168.232.1
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
