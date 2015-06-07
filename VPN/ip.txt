@@ -5,9 +5,12 @@ Windows IP Configuration
 Ethernet adapter Local Area Connection 7:
 
    Connection-specific DNS Suffix  . : guidewire.com
-   IPv4 Address. . . . . . . . . . . : 10.144.26.48
+   Link-local IPv6 Address . . . . . : fe80::183b:419d:2b00:c86e%25
+   Link-local IPv6 Address . . . . . : fe80::2ab0:5a89:8511:2bc5%25
+   IPv4 Address. . . . . . . . . . . : 10.144.26.49
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 10.144.26.1
+   Default Gateway . . . . . . . . . : ::
+                                       10.144.26.1
 
 Ethernet adapter Local Area Connection 4:
 
