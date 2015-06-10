@@ -1,4 +1,8 @@
-Run d:\360\VPN\cisco.bat,,min
+IfWinExist, Administrator:  cisco
+{
+    WinClose Administrator:  cisco
+}
+Run d:\GitHub\netGitTest\VPN\cisco.bat,,min
 Sleep 2000
 #WinActivateForce
 IfWinExist, Administrator:  cisco
