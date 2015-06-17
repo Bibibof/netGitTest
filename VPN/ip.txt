@@ -2,6 +2,15 @@
 Windows IP Configuration
 
 
+Ethernet adapter Local Area Connection 7:
+
+   Connection-specific DNS Suffix  . : guidewire.com
+   Link-local IPv6 Address . . . . . : fe80::183b:419d:2b00:c86e%25
+   Link-local IPv6 Address . . . . . : fe80::d6ff:78ea:3c53:acc5%25
+   IPv4 Address. . . . . . . . . . . : 10.132.26.170
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : ::
+
 Wireless LAN adapter Wireless Network Connection 4:
 
    Media State . . . . . . . . . . . : Media disconnected
