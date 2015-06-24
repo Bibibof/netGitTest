@@ -5,17 +5,12 @@ Windows IP Configuration
 Ethernet adapter Local Area Connection 7:
 
    Connection-specific DNS Suffix  . : guidewire.com
-   Link-local IPv6 Address . . . . . : fe80::5bea:6b26:878c:8b29%25
+   Link-local IPv6 Address . . . . . : fe80::bd03:55b0:5651:9db9%25
    Link-local IPv6 Address . . . . . : fe80::e863:f755:b671:89fd%25
-   IPv4 Address. . . . . . . . . . . : 10.144.26.93
+   IPv4 Address. . . . . . . . . . . : 10.144.26.92
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
    Default Gateway . . . . . . . . . : ::
                                        10.144.26.1
-
-Wireless LAN adapter Wireless Network Connection 4:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
 
 Wireless LAN adapter Wireless Network Connection 3:
 
@@ -36,10 +31,10 @@ Ethernet adapter Bluetooth Network Connection:
 
 Ethernet adapter VMware Network Adapter VMnet1:
 
-   Connection-specific DNS Suffix  . : localdomain
+   Connection-specific DNS Suffix  . : 
    Link-local IPv6 Address . . . . . : fe80::a51b:bef3:bba3:490%20
-   IPv4 Address. . . . . . . . . . . : 192.168.232.1
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Autoconfiguration IPv4 Address. . : 169.254.4.144
+   Subnet Mask . . . . . . . . . . . : 255.255.0.0
    Default Gateway . . . . . . . . . : 
 
 Ethernet adapter VMware Network Adapter VMnet8:
@@ -47,6 +42,14 @@ Ethernet adapter VMware Network Adapter VMnet8:
    Connection-specific DNS Suffix  . : 
    Link-local IPv6 Address . . . . . : fe80::64be:3143:3623:e35%21
    IPv4 Address. . . . . . . . . . . : 192.168.35.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::a4bf:7b37:e4d6:873b%43
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
    Default Gateway . . . . . . . . . : 
 
