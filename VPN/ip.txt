@@ -2,6 +2,13 @@
 Windows IP Configuration
 
 
+Ethernet adapter Local Area Connection 7:
+
+   Connection-specific DNS Suffix  . : guidewire.com
+   IPv4 Address. . . . . . . . . . . : 10.144.26.131
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 10.144.26.1
+
 Wireless LAN adapter Wireless Network Connection 3:
 
    Media State . . . . . . . . . . . : Media disconnected
