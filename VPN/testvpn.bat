@@ -4,8 +4,7 @@
 @rem DNS Guidewire: uk-dc-02.guidewire.com [192.168.14.9]
 ping -n 2 uk-dc-02.guidewire.com | sed "/Received = 0\|could not find host/!d" > d:\GitHub\netGitTest\VPN\testping.log
 call :CheckEmpty "d:\GitHub\netGitTest\VPN\testping.log"
-@rem goto :eof
-goto :saveip
+goto :eof
 
 :CheckEmpty
 @rem echo Test if can reach the station...
