@@ -1,4 +1,3 @@
-goto :saveip
 @echo off
 @rem echo Starting...
 @rem ping -n 2 rorain-w53.guidewire.com | sed "/Received = 0\|could not find host/!d" > d:\GitHub\netGitTest\VPN\testping.log
