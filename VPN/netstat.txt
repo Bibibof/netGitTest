@@ -1,2 +1,2 @@
-  TCP    0.0.0.0:3389           0.0.0.0:0              LISTENING       2176
-  TCP    [::]:3389              [::]:0                 LISTENING       2176
+  TCP    0.0.0.0:3389           0.0.0.0:0              LISTENING       1996
+  TCP    [::]:3389              [::]:0                 LISTENING       1996
