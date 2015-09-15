@@ -2,10 +2,7 @@
 Windows IP Configuration
 
 
-PPP adapter VyprVPN:
 
-   Connection-specific DNS Suffix  . : 
-   IPv4 Address. . . . . . . . . . . : 103.17.199.184
    Subnet Mask . . . . . . . . . . . : 255.255.255.255
    Default Gateway . . . . . . . . . : 0.0.0.0
 
