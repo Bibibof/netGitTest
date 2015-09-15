@@ -18,6 +18,8 @@ cd d:\GitHub\netGitTest
 @rem C:\Users\RORAIN\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd\git commit -m "ip"
 @rem C:\Users\RORAIN\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd\git push
 
+"d:\Program Files\PortableGit\bin\git" config --global user.name "Bibibof"
+"d:\Program Files\PortableGit\bin\git" config --global user.email bibibof@hotmail.com
 "d:\Program Files\PortableGit\bin\git" pull
 "d:\Program Files\PortableGit\bin\git" add -A
 "d:\Program Files\PortableGit\bin\git" commit -m "ip"
