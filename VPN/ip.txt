@@ -5,7 +5,7 @@ Windows IP Configuration
 PPP adapter VyprVPN:
 
    Connection-specific DNS Suffix  . : 
-   IPv4 Address. . . . . . . . . . . : 128.90.92.159
+   IPv4 Address. . . . . . . . . . . : 199.48.245.233
    Subnet Mask . . . . . . . . . . . : 255.255.255.255
    Default Gateway . . . . . . . . . : 0.0.0.0
 
@@ -37,5 +37,5 @@ Tunnel adapter Local Area Connection* 9:
 Tunnel adapter 6TO4 Adapter:
 
    Connection-specific DNS Suffix  . : 
-   IPv6 Address. . . . . . . . . . . : 2002:805a:5c9f::805a:5c9f
+   IPv6 Address. . . . . . . . . . . : 2002:c730:f5e9::c730:f5e9
    Default Gateway . . . . . . . . . : 
