@@ -2,16 +2,6 @@
 Windows IP Configuration
 
 
-Ethernet adapter Local Area Connection 7:
-
-   Connection-specific DNS Suffix  . : guidewire.com
-   Link-local IPv6 Address . . . . . : fe80::7bae:3209:8c67:9321%25
-   Link-local IPv6 Address . . . . . : fe80::e863:f755:b671:89fd%25
-   IPv4 Address. . . . . . . . . . . : 10.144.26.54
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : ::
-                                       10.144.26.1
-
 Ethernet adapter Local Area Connection 4:
 
    Connection-specific DNS Suffix  . : WORKGROUP
@@ -33,6 +23,11 @@ Ethernet adapter VirtualBox Host-Only Network:
    Default Gateway . . . . . . . . . : 
 
 Tunnel adapter Local Area Connection* 9:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Tunnel adapter 6TO4 Adapter:
 
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
