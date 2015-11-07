@@ -2,12 +2,15 @@
 Windows IP Configuration
 
 
-PPP adapter VyprVPN:
+Ethernet adapter Local Area Connection 7:
 
-   Connection-specific DNS Suffix  . : 
-   IPv4 Address. . . . . . . . . . . : 45.120.201.247
-   Subnet Mask . . . . . . . . . . . : 255.255.255.255
-   Default Gateway . . . . . . . . . : 0.0.0.0
+   Connection-specific DNS Suffix  . : guidewire.com
+   Link-local IPv6 Address . . . . . : fe80::c433:b001:8a76:c665%25
+   Link-local IPv6 Address . . . . . : fe80::e863:f755:b671:89fd%25
+   IPv4 Address. . . . . . . . . . . : 10.144.26.60
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : ::
+                                       10.144.26.1
 
 Ethernet adapter Local Area Connection 4:
 
@@ -33,9 +36,3 @@ Tunnel adapter Local Area Connection* 9:
 
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
-
-Tunnel adapter 6TO4 Adapter:
-
-   Connection-specific DNS Suffix  . : 
-   IPv6 Address. . . . . . . . . . . : 2002:2d78:c9f7::2d78:c9f7
-   Default Gateway . . . . . . . . . : 
