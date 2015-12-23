@@ -2,13 +2,6 @@
 Windows IP Configuration
 
 
-PPP adapter VyprVPN:
-
-   Connection-specific DNS Suffix  . : 
-   IPv4 Address. . . . . . . . . . . : 27.100.18.70
-   Subnet Mask . . . . . . . . . . . : 255.255.255.255
-   Default Gateway . . . . . . . . . : 0.0.0.0
-
 Ethernet adapter Local Area Connection 4:
 
    Connection-specific DNS Suffix  . : WORKGROUP
@@ -33,9 +26,3 @@ Tunnel adapter Local Area Connection* 9:
 
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
-
-Tunnel adapter 6TO4 Adapter:
-
-   Connection-specific DNS Suffix  . : 
-   IPv6 Address. . . . . . . . . . . : 2002:1b64:1246::1b64:1246
-   Default Gateway . . . . . . . . . : 
