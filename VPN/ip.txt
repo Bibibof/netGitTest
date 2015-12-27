@@ -2,6 +2,14 @@
 Windows IP Configuration
 
 
+Ethernet adapter Local Area Connection 7:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::8d25:4a31:91bb:4706%47
+   IPv4 Address. . . . . . . . . . . : 10.13.67.98
+   Subnet Mask . . . . . . . . . . . : 255.255.255.252
+   Default Gateway . . . . . . . . . : 
+
 Ethernet adapter Local Area Connection 4:
 
    Connection-specific DNS Suffix  . : WORKGROUP
