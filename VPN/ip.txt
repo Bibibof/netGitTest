@@ -6,6 +6,7 @@ Ethernet adapter Local Area Connection 7:
 
    Connection-specific DNS Suffix  . : guidewire.com
    Link-local IPv6 Address . . . . . : fe80::919d:d6d9:5096:5865%25
+   Link-local IPv6 Address . . . . . : fe80::bdec:38ac:5e15:ac95%25
    Link-local IPv6 Address . . . . . : fe80::e863:f755:b671:89fd%25
    IPv4 Address. . . . . . . . . . . : 10.144.26.126
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
