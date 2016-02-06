@@ -7,6 +7,13 @@ Ethernet adapter Local Area Connection 7:
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
 
+Ethernet adapter Local Area Connection 4:
+
+   Connection-specific DNS Suffix  . : WORKGROUP
+   IPv4 Address. . . . . . . . . . . : 192.168.1.7
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.1.1
+
 Ethernet adapter Bluetooth Network Connection:
 
    Media State . . . . . . . . . . . : Media disconnected
