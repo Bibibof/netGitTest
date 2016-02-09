@@ -26,7 +26,8 @@ Send rorain{Enter}
 Sleep 10
 ;http://www.autohotkey.com/docs/commands/Send.htm
 ;Send Lenovo+=9{Enter}y{Enter}
-Send Bond+=007{Enter}y{Enter}
+;Send Bond+=007{Enter}y{Enter}
+Send Magi+=007{Enter}y{Enter}
 ;Send Shangri-la1{Enter}y{Enter}
 ;Send Sidonia-1{Enter}y{Enter}
 ;Send Benisuzume-1{Enter}y{Enter}
