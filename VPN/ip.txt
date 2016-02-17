@@ -5,6 +5,7 @@ Windows IP Configuration
 Ethernet adapter Local Area Connection 7:
 
    Connection-specific DNS Suffix  . : guidewire.com
+   Link-local IPv6 Address . . . . . : fe80::3671:308c:4233:a749%25
    Link-local IPv6 Address . . . . . : fe80::a345:94b4:4f84:735d%25
    Link-local IPv6 Address . . . . . : fe80::e863:f755:b671:89fd%25
    IPv4 Address. . . . . . . . . . . : 10.144.26.147
