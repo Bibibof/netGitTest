@@ -4,8 +4,11 @@ Windows IP Configuration
 
 Ethernet adapter Local Area Connection 7:
 
-   Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::8d25:4a31:91bb:4706%35
+   IPv4 Address. . . . . . . . . . . : 10.11.14.90
+   Subnet Mask . . . . . . . . . . . : 255.255.255.252
+   Default Gateway . . . . . . . . . : 
 
 Ethernet adapter Local Area Connection 4:
 
