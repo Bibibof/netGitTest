@@ -4,11 +4,8 @@ Windows IP Configuration
 
 Ethernet adapter Local Area Connection 7:
 
+   Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
-   Link-local IPv6 Address . . . . . : fe80::713b:a819:ad18:a94e%35
-   IPv4 Address. . . . . . . . . . . : 10.18.67.198
-   Subnet Mask . . . . . . . . . . . : 255.255.255.252
-   Default Gateway . . . . . . . . . : 
 
 Ethernet adapter Local Area Connection 4:
 
@@ -16,6 +13,11 @@ Ethernet adapter Local Area Connection 4:
    IPv4 Address. . . . . . . . . . . : 192.168.1.7
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
    Default Gateway . . . . . . . . . : 192.168.1.1
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
 
 Ethernet adapter VirtualBox Host-Only Network:
 
