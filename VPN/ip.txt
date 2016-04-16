@@ -2,35 +2,12 @@
 Windows IP Configuration
 
 
-Ethernet adapter Local Area Connection 7:
-
-   Connection-specific DNS Suffix  . : guidewire.com
-   Link-local IPv6 Address . . . . . : fe80::c280:455f:d4a2:2649%25
-   Link-local IPv6 Address . . . . . : fe80::e863:f755:b671:89fd%25
-   IPv4 Address. . . . . . . . . . . : 10.144.26.127
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : ::
-                                       10.144.26.1
-
 Ethernet adapter Local Area Connection 4:
 
    Connection-specific DNS Suffix  . : WORKGROUP
-   IPv4 Address. . . . . . . . . . . : 192.168.1.7
+   IPv4 Address. . . . . . . . . . . : 192.168.0.100
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 192.168.1.1
-
-Ethernet adapter Bluetooth Network Connection:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Ethernet adapter VirtualBox Host-Only Network:
-
-   Connection-specific DNS Suffix  . : 
-   Link-local IPv6 Address . . . . . : fe80::a4bf:7b37:e4d6:873b%26
-   IPv4 Address. . . . . . . . . . . : 192.168.56.1
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 
+   Default Gateway . . . . . . . . . : 192.168.0.1
 
 Tunnel adapter Local Area Connection* 9:
 
