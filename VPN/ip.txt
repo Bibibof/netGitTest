@@ -7,11 +7,6 @@ Ethernet adapter Local Area Connection 7:
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
 
-Ethernet adapter Local Area Connection 7:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
 Ethernet adapter Local Area Connection 4:
 
    Connection-specific DNS Suffix  . : WORKGROUP
