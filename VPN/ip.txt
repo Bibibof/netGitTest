@@ -6,7 +6,7 @@ Ethernet adapter Local Area Connection 7:
 
    Connection-specific DNS Suffix  . : 
    Link-local IPv6 Address . . . . . : fe80::713b:a819:ad18:a94e%38
-   IPv4 Address. . . . . . . . . . . : 10.17.17.202
+   IPv4 Address. . . . . . . . . . . : 10.18.10.42
    Subnet Mask . . . . . . . . . . . : 255.255.255.252
    Default Gateway . . . . . . . . . : 
 
