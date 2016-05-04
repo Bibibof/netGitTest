@@ -7,14 +7,6 @@ Ethernet adapter Local Area Connection 7:
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
 
-Ethernet adapter Local Area Connection 6:
-
-   Connection-specific DNS Suffix  . : 
-   Link-local IPv6 Address . . . . . : fe80::fdc1:c089:9ee0:17e4%36
-   IPv4 Address. . . . . . . . . . . : 192.168.8.100
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 192.168.8.1
-
 Ethernet adapter Local Area Connection 4:
 
    Connection-specific DNS Suffix  . : WORKGROUP
