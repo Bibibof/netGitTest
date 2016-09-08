@@ -2,14 +2,6 @@
 Windows IP Configuration
 
 
-Ethernet adapter Local Area Connection 8:
-
-   Connection-specific DNS Suffix  . : 
-   Link-local IPv6 Address . . . . . : fe80::e09d:a5ff:347c:bf74%64
-   IPv4 Address. . . . . . . . . . . : 192.168.8.102
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 192.168.8.1
-
 Ethernet adapter Local Area Connection 7:
 
    Media State . . . . . . . . . . . : Media disconnected
@@ -22,11 +14,11 @@ Wireless LAN adapter Wireless Network Connection 4:
 
 Wireless LAN adapter Wireless Network Connection 3:
 
-   Connection-specific DNS Suffix  . : 
+   Connection-specific DNS Suffix  . : WORKGROUP
    Link-local IPv6 Address . . . . . : fe80::d95c:9c3e:4a94:95dd%23
-   IPv4 Address. . . . . . . . . . . : 192.168.8.101
+   IPv4 Address. . . . . . . . . . . : 192.168.0.100
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 192.168.8.1
+   Default Gateway . . . . . . . . . : 192.168.0.1
 
 Ethernet adapter Local Area Connection 4:
 
