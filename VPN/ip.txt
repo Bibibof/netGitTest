@@ -21,11 +21,6 @@ Ethernet adapter Local Area Connection 2:
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
 
-Ethernet adapter Bluetooth Network Connection:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
 Ethernet adapter VirtualBox Host-Only Network:
 
    Connection-specific DNS Suffix  . : 
