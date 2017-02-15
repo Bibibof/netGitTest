@@ -4,35 +4,22 @@ Windows IP Configuration
 
 Ethernet adapter Local Area Connection 7:
 
-   Connection-specific DNS Suffix  . : guidewire.com
-   Link-local IPv6 Address . . . . . : fe80::4072:94b7:4b9d:6bda%25
-   Link-local IPv6 Address . . . . . : fe80::e863:f755:b671:89fd%25
-   IPv4 Address. . . . . . . . . . . : 10.144.26.150
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Local Area Connection 4:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::9020:a63c:e2a4:f0f8%19
+   IPv4 Address. . . . . . . . . . . : 192.168.1.4
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : ::
-                                       10.144.26.1
-
-Ethernet adapter Local Area Connection 7:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Wireless LAN adapter Wireless Network Connection 2:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
+   Default Gateway . . . . . . . . . : fe80::1%19
+                                       192.168.1.1
 
 Ethernet adapter Local Area Connection 2:
 
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
-
-Wireless LAN adapter Wireless Network Connection:
-
-   Connection-specific DNS Suffix  . : 
-   IPv4 Address. . . . . . . . . . . : 192.168.8.100
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 192.168.8.1
 
 Ethernet adapter VirtualBox Host-Only Network:
 
